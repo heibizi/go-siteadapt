@@ -1,4 +1,4 @@
-module go-siteadapt
+module github.com/heibizi/go-siteadapt
 
 go 1.22
 
